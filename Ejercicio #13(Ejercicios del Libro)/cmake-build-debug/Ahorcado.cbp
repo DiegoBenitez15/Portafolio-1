@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Ahorcado"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ahorcado">
+				<Option output="C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug/Ahorcado.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ahorcado"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ahorcado/fast">
+				<Option output="C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug/Ahorcado.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ahorcado/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ahorcadominunit">
+				<Option output="C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug/Ahorcadominunit.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ahorcadominunit"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ahorcadominunit/fast">
+				<Option output="C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug/Ahorcadominunit.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ahorcadominunit/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="untitled">
+				<Option output="C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug/untitled.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="untitled/fast">
+				<Option output="C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug/untitled.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/Ahorcado/1_jugador.c">
+			<Option target="Ahorcado"/>
+			<Option target="Ahorcadominunit"/>
+		</Unit>
+		<Unit filename="C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/Ahorcado/2_Jugador.c">
+			<Option target="Ahorcado"/>
+			<Option target="Ahorcadominunit"/>
+		</Unit>
+		<Unit filename="C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/Ahorcado/Ahorcado.c">
+			<Option target="Ahorcado"/>
+			<Option target="Ahorcadominunit"/>
+		</Unit>
+		<Unit filename="C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/Ahorcado/Funciones.h">
+			<Option target="Ahorcado"/>
+			<Option target="Ahorcadominunit"/>
+		</Unit>
+		<Unit filename="C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/Ahorcado/main.c">
+			<Option target="Ahorcado"/>
+		</Unit>
+		<Unit filename="C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/Ahorcado/minunit.c">
+			<Option target="Ahorcadominunit"/>
+		</Unit>
+		<Unit filename="C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/Ahorcado/minunit.h">
+			<Option target="Ahorcadominunit"/>
+		</Unit>
+		<Unit filename="C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/untitled/Identificador_Valido.c">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/untitled/Identificador_Valido.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/untitled/main.c">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/untitled/minunit.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

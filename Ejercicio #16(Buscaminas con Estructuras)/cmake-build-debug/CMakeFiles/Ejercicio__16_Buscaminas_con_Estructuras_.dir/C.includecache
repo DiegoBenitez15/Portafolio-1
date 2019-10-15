@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/diego/Desktop/Portafolios #1/Ejercicio #16(Buscaminas con Estructuras)/BuscaminasEstructuras.c
+stdlib.h
+-
+time.h
+-
+BuscaminasEstructuras.h
+C:/Users/diego/Desktop/Portafolios #1/Ejercicio #16(Buscaminas con Estructuras)/BuscaminasEstructuras.h
+
+C:/Users/diego/Desktop/Portafolios #1/Ejercicio #16(Buscaminas con Estructuras)/BuscaminasEstructuras.h
+

@@ -1,0 +1,5 @@
+C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug/CMakeFiles/Ahorcado.dir
+C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug/CMakeFiles/Ahorcadominunit.dir
+C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug/CMakeFiles/untitled.dir
+C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

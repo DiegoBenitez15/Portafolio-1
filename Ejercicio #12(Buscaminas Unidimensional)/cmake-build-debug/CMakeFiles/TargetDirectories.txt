@@ -1,0 +1,3 @@
+C:/Users/diego/Desktop/Portafolios #1/Ejercicio #12(Buscaminas Unidimensional)/cmake-build-debug/CMakeFiles/Ejercicio__12_Buscaminas_Unidimensional_.dir
+C:/Users/diego/Desktop/Portafolios #1/Ejercicio #12(Buscaminas Unidimensional)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/diego/Desktop/Portafolios #1/Ejercicio #12(Buscaminas Unidimensional)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

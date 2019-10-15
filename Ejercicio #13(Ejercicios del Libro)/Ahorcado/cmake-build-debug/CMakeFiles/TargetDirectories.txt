@@ -1,0 +1,4 @@
+C:/Users/diego/Desktop/Portafolios #1/Trabajos-en-c/Ahorcado/cmake-build-debug/CMakeFiles/Ahorcado.dir
+C:/Users/diego/Desktop/Portafolios #1/Trabajos-en-c/Ahorcado/cmake-build-debug/CMakeFiles/Ahorcadominunit.dir
+C:/Users/diego/Desktop/Portafolios #1/Trabajos-en-c/Ahorcado/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/diego/Desktop/Portafolios #1/Trabajos-en-c/Ahorcado/cmake-build-debug/CMakeFiles/rebuild_cache.dir

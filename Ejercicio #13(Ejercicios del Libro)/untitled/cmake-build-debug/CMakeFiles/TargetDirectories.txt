@@ -1,0 +1,3 @@
+C:/Users/diego/Desktop/Portafolios #1/Trabajos-en-c/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/diego/Desktop/Portafolios #1/Trabajos-en-c/untitled/cmake-build-debug/CMakeFiles/untitled.dir
+C:/Users/diego/Desktop/Portafolios #1/Trabajos-en-c/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir

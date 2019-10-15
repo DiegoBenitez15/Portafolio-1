@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.2.2\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\untitled_miunit.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\untitled_miunit.dir/objects.a @CMakeFiles\untitled_miunit.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\untitled_miunit.dir/objects.a -Wl,--no-whole-archive  -o untitled_miunit.exe -Wl,--out-implib,libuntitled_miunit.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\untitled_miunit.dir\linklibs.rsp

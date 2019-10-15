@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Ejercicio__7_Suma_de_los_Elementos_de_una_Matriz_" targetName="Ejercicio__7_Suma_de_los_Elementos_de_una_Matriz_" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="21f7248d-74c3-48d6-836a-f38e0bfc3fa6" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1RkNdB9RMdKIO4ULdi3zXRRvJfP" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Ejercicio #8(Invertir Columnas)/CMakeLists.txt" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Ejercicio__7_Suma_de_los_Elementos_de_una_Matriz_" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Ejercicio__7_Suma_de_los_Elementos_de_una_Matriz_" TARGET_NAME="Ejercicio__7_Suma_de_los_Elementos_de_una_Matriz_" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Ejercicio__7_Suma_de_los_Elementos_de_una_Matriz_" RUN_TARGET_NAME="Ejercicio__7_Suma_de_los_Elementos_de_una_Matriz_">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21f7248d-74c3-48d6-836a-f38e0bfc3fa6" name="Default Changelist" comment="" />
+      <created>1570207218291</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570207218291</updated>
+      <workItem from="1570207219686" duration="4771000" />
+      <workItem from="1570305718866" duration="230000" />
+      <workItem from="1570305963285" duration="1292000" />
+      <workItem from="1570410061352" duration="7547000" />
+      <workItem from="1570574864684" duration="630000" />
+      <workItem from="1571105915616" duration="1472000" />
+      <workItem from="1571144990555" duration="492000" />
+      <workItem from="1571147349135" duration="516000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

@@ -1,0 +1,3 @@
+C:/Users/diego/Desktop/Portafolios #1/Ejercicio #10(Numeros Iguales)/cmake-build-debug/CMakeFiles/Ejercicio__10_Numeros_Iguales_.dir
+C:/Users/diego/Desktop/Portafolios #1/Ejercicio #10(Numeros Iguales)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/diego/Desktop/Portafolios #1/Ejercicio #10(Numeros Iguales)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

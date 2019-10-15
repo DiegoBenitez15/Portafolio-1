@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/diego/Desktop/Portafolios #1/Trabajos-en-c/untitled/Identificador_Valido.h
+
+C:/Users/diego/Desktop/Portafolios #1/Trabajos-en-c/untitled/main.c
+minunit.h
+C:/Users/diego/Desktop/Portafolios #1/Trabajos-en-c/untitled/minunit.h
+Identificador_Valido.h
+C:/Users/diego/Desktop/Portafolios #1/Trabajos-en-c/untitled/Identificador_Valido.h
+
+C:/Users/diego/Desktop/Portafolios #1/Trabajos-en-c/untitled/minunit.h
+windows.h
+-
+unistd.h
+-
+time.h
+-
+sys/time.h
+-
+sys/resource.h
+-
+sys/times.h
+-
+string.h
+-
+mach/mach.h
+-
+mach/mach_time.h
+-
+stdio.h
+-
+math.h
+-
+

@@ -1,0 +1,3 @@
+C:/Users/diego/Desktop/Portafolios #1/Ejercicio #6(Busqueda Binaria)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/diego/Desktop/Portafolios #1/Ejercicio #6(Busqueda Binaria)/cmake-build-debug/CMakeFiles/Ejercicio__6__.dir
+C:/Users/diego/Desktop/Portafolios #1/Ejercicio #6(Busqueda Binaria)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

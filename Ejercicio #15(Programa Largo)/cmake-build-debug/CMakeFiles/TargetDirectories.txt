@@ -1,0 +1,3 @@
+C:/Users/diego/Desktop/Portafolios #1/Ejercicio #15(Programa Largo)/cmake-build-debug/CMakeFiles/Ejercicio__15_Programa_Largo_.dir
+C:/Users/diego/Desktop/Portafolios #1/Ejercicio #15(Programa Largo)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/diego/Desktop/Portafolios #1/Ejercicio #15(Programa Largo)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

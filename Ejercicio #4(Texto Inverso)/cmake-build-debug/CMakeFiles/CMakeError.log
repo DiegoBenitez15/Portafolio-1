@@ -1,0 +1,13 @@
+Detecting C [-std=c11] compiler features failed to compile with the following output:
+Change Dir: C:/Users/diego/Desktop/Portafolios #1/Ejercicio #4(Texto Inverso)/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_88f81/fast 
+C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_88f81.dir\build.make CMakeFiles/cmTC_88f81.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/diego/Desktop/Portafolios #1/Ejercicio #4(Texto Inverso)/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: Leaving directory 'C:/Users/diego/Desktop/Portafolios #1/Ejercicio #4(Texto Inverso)/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: *** No rule to make target 'C:/Users/diego/Desktop/Portafolios\', needed by 'CMakeFiles/cmTC_88f81.dir/feature_tests.c.obj'.  Stop.
+Makefile:120: recipe for target 'cmTC_88f81/fast' failed
+mingw32-make.exe: *** [cmTC_88f81/fast] Error 2
+
+
+

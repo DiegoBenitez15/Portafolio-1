@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/Ahorcado/1_jugador.c
+ctype.h
+-
+
+C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/Ahorcado/2_Jugador.c
+ctype.h
+-
+
+C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/Ahorcado/Ahorcado.c
+stdio.h
+-
+ctype.h
+-
+
+C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/Ahorcado/Funciones.h
+
+C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/Ahorcado/main.c
+stdio.h
+-
+stdlib.h
+-
+ctype.h
+-
+time.h
+-
+Funciones.h
+C:/Users/diego/Desktop/Portafolios/Trabajos-en-c2/Ejercicios Del Libro(Terminados)(8.7 y 8.22)/Ahorcado/Funciones.h
+

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/diego/Desktop/Portafolios #1/Trabajos-en-c/Ahorcado/Funciones.h
+
+C:/Users/diego/Desktop/Portafolios #1/Trabajos-en-c/Ahorcado/main.c
+stdio.h
+-
+stdlib.h
+-
+ctype.h
+-
+time.h
+-
+Funciones.h
+C:/Users/diego/Desktop/Portafolios #1/Trabajos-en-c/Ahorcado/Funciones.h
+

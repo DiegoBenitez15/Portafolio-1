@@ -1,0 +1,3 @@
+C:/Users/diego/Desktop/Portafolios #1/Ejercicio #9(Tiempo de Ejecucion)/SelectionSort/cmake-build-debug/CMakeFiles/SelectionSort.dir
+C:/Users/diego/Desktop/Portafolios #1/Ejercicio #9(Tiempo de Ejecucion)/SelectionSort/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/diego/Desktop/Portafolios #1/Ejercicio #9(Tiempo de Ejecucion)/SelectionSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir

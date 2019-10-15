@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/diego/Desktop/Portafolios #1/Ejercicio #4(Texto Inverso)/main.c
+texto_inverso.h
+C:/Users/diego/Desktop/Portafolios #1/Ejercicio #4(Texto Inverso)/texto_inverso.h
+stdio.h
+-
+
+C:/Users/diego/Desktop/Portafolios #1/Ejercicio #4(Texto Inverso)/texto_inverso.h
+

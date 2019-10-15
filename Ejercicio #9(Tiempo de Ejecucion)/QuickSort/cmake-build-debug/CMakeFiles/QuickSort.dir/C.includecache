@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/diego/Desktop/Portafolios #1/Ejercicio #9(Tiempo de Ejecucion)/QuickSort/QuickSort.h
+
+C:/Users/diego/Desktop/Portafolios #1/Ejercicio #9(Tiempo de Ejecucion)/QuickSort/main.c
+minunit.h
+C:/Users/diego/Desktop/Portafolios #1/Ejercicio #9(Tiempo de Ejecucion)/QuickSort/minunit.h
+QuickSort.h
+C:/Users/diego/Desktop/Portafolios #1/Ejercicio #9(Tiempo de Ejecucion)/QuickSort/QuickSort.h
+stdio.h
+-
+sys/time.h
+-
+
+C:/Users/diego/Desktop/Portafolios #1/Ejercicio #9(Tiempo de Ejecucion)/QuickSort/minunit.h
+windows.h
+-
+unistd.h
+-
+time.h
+-
+sys/time.h
+-
+sys/resource.h
+-
+sys/times.h
+-
+string.h
+-
+mach/mach.h
+-
+mach/mach_time.h
+-
+stdio.h
+-
+math.h
+-
+
