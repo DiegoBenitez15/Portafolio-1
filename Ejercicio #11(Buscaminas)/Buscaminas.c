@@ -86,43 +86,6 @@ void colocar_numeros(int x[100][100], int m, int n)
     }
 }
 
-int imprimir(int x[100][100],int m,int n)
-{
-
-    int i,j;
-
-    for(i = 0;i < n;i++)
-    {
-        printf("  %d",i);
-    }
-
-    printf("\n");
-
-    for(i = 0; i < n;i++)
-    {
-        printf("====");
-    }
-
-    printf("\n");
-
-    for(i = 0; i < m;i++)
-    {
-        printf("%d| ",i);
-        for(j = 0; j < n;j++)
-        {
-            if(x[i][j] != 9)
-            {
-                printf("%d  ",x[i][j]);
-            }
-            else
-            {
-                printf("*  ");
-            }
-        }
-        printf("\n");
-    }
-}
-
 void abrir (int x[100][100], int x2[100][100], int m, int n, int i, int j)
 {
     if(x[i][j] > 0 &&  x[i][j] <= 9)

@@ -6,5 +6,37 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/diego/Desktop/Portafolios #1/Ejercicio #8(Invertir Columnas)/Funcion.c
+C:/Users/diego/Desktop/Portafolio-1/Ejercicio #8(Invertir Columnas)/Funcion.c
+
+C:/Users/diego/Desktop/Portafolio-1/Ejercicio #8(Invertir Columnas)/Funcion.h
+
+C:/Users/diego/Desktop/Portafolio-1/Ejercicio #8(Invertir Columnas)/main.c
+minunit.h
+C:/Users/diego/Desktop/Portafolio-1/Ejercicio #8(Invertir Columnas)/minunit.h
+Funcion.h
+C:/Users/diego/Desktop/Portafolio-1/Ejercicio #8(Invertir Columnas)/Funcion.h
+
+C:/Users/diego/Desktop/Portafolio-1/Ejercicio #8(Invertir Columnas)/minunit.h
+windows.h
+-
+unistd.h
+-
+time.h
+-
+sys/time.h
+-
+sys/resource.h
+-
+sys/times.h
+-
+string.h
+-
+mach/mach.h
+-
+mach/mach_time.h
+-
+stdio.h
+-
+math.h
+-
 

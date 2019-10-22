@@ -58,10 +58,10 @@ RM = "C:\Program Files\JetBrains\CLion 2019.2.2\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #15(Programa Largo)"
+CMAKE_SOURCE_DIR = "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #15(Programa Largo)"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #15(Programa Largo)\cmake-build-debug"
+CMAKE_BINARY_DIR = "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #15(Programa Largo)\cmake-build-debug"
 
 #=============================================================================
 # Target rules for target CMakeFiles/Ejercicio__15_Programa_Largo_.dir
@@ -70,7 +70,7 @@ CMAKE_BINARY_DIR = "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #15(Programa
 CMakeFiles/Ejercicio__15_Programa_Largo_.dir/all:
 	$(MAKE) -f CMakeFiles\Ejercicio__15_Programa_Largo_.dir\build.make CMakeFiles/Ejercicio__15_Programa_Largo_.dir/depend
 	$(MAKE) -f CMakeFiles\Ejercicio__15_Programa_Largo_.dir\build.make CMakeFiles/Ejercicio__15_Programa_Largo_.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="C:\Users\diego\Desktop\Portafolios #1\Ejercicio #15(Programa Largo)\cmake-build-debug\CMakeFiles" --progress-num=1,2,3 "Built target Ejercicio__15_Programa_Largo_"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="C:\Users\diego\Desktop\Portafolio-1\Ejercicio #15(Programa Largo)\cmake-build-debug\CMakeFiles" --progress-num=1,2,3 "Built target Ejercicio__15_Programa_Largo_"
 .PHONY : CMakeFiles/Ejercicio__15_Programa_Largo_.dir/all
 
 # Include target in all.
@@ -80,9 +80,9 @@ all: CMakeFiles/Ejercicio__15_Programa_Largo_.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Ejercicio__15_Programa_Largo_.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #15(Programa Largo)\cmake-build-debug\CMakeFiles" 3
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #15(Programa Largo)\cmake-build-debug\CMakeFiles" 3
 	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/Ejercicio__15_Programa_Largo_.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #15(Programa Largo)\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #15(Programa Largo)\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/Ejercicio__15_Programa_Largo_.dir/rule
 
 # Convenience name for target.
@@ -97,6 +97,43 @@ CMakeFiles/Ejercicio__15_Programa_Largo_.dir/clean:
 
 # clean rule for target.
 clean: CMakeFiles/Ejercicio__15_Programa_Largo_.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/Ejercicio__15_Programa_Largo_minunit.dir
+
+# All Build rule for target.
+CMakeFiles/Ejercicio__15_Programa_Largo_minunit.dir/all:
+	$(MAKE) -f CMakeFiles\Ejercicio__15_Programa_Largo_minunit.dir\build.make CMakeFiles/Ejercicio__15_Programa_Largo_minunit.dir/depend
+	$(MAKE) -f CMakeFiles\Ejercicio__15_Programa_Largo_minunit.dir\build.make CMakeFiles/Ejercicio__15_Programa_Largo_minunit.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="C:\Users\diego\Desktop\Portafolio-1\Ejercicio #15(Programa Largo)\cmake-build-debug\CMakeFiles" --progress-num=4,5,6 "Built target Ejercicio__15_Programa_Largo_minunit"
+.PHONY : CMakeFiles/Ejercicio__15_Programa_Largo_minunit.dir/all
+
+# Include target in all.
+all: CMakeFiles/Ejercicio__15_Programa_Largo_minunit.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/Ejercicio__15_Programa_Largo_minunit.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #15(Programa Largo)\cmake-build-debug\CMakeFiles" 3
+	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/Ejercicio__15_Programa_Largo_minunit.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #15(Programa Largo)\cmake-build-debug\CMakeFiles" 0
+.PHONY : CMakeFiles/Ejercicio__15_Programa_Largo_minunit.dir/rule
+
+# Convenience name for target.
+Ejercicio__15_Programa_Largo_minunit: CMakeFiles/Ejercicio__15_Programa_Largo_minunit.dir/rule
+
+.PHONY : Ejercicio__15_Programa_Largo_minunit
+
+# clean rule for target.
+CMakeFiles/Ejercicio__15_Programa_Largo_minunit.dir/clean:
+	$(MAKE) -f CMakeFiles\Ejercicio__15_Programa_Largo_minunit.dir\build.make CMakeFiles/Ejercicio__15_Programa_Largo_minunit.dir/clean
+.PHONY : CMakeFiles/Ejercicio__15_Programa_Largo_minunit.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/Ejercicio__15_Programa_Largo_minunit.dir/clean
 
 .PHONY : clean
 

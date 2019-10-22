@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "C:/Users/diego/Desktop/Portafolios #1/Ejercicio #11(Buscaminas)/Buscaminas.c" "C:/Users/diego/Desktop/Portafolios #1/Ejercicio #11(Buscaminas)/cmake-build-debug/CMakeFiles/untitled.dir/Buscaminas.c.obj"
-  "C:/Users/diego/Desktop/Portafolios #1/Ejercicio #11(Buscaminas)/main.c" "C:/Users/diego/Desktop/Portafolios #1/Ejercicio #11(Buscaminas)/cmake-build-debug/CMakeFiles/untitled.dir/main.c.obj"
+  "C:/Users/diego/Desktop/Portafolio-1/Ejercicio #11(Buscaminas)/Buscaminas.c" "C:/Users/diego/Desktop/Portafolio-1/Ejercicio #11(Buscaminas)/cmake-build-debug/CMakeFiles/untitled.dir/Buscaminas.c.obj"
+  "C:/Users/diego/Desktop/Portafolio-1/Ejercicio #11(Buscaminas)/main.c" "C:/Users/diego/Desktop/Portafolio-1/Ejercicio #11(Buscaminas)/cmake-build-debug/CMakeFiles/untitled.dir/main.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

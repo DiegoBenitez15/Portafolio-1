@@ -42,10 +42,10 @@ RM = "C:\Program Files\JetBrains\CLion 2019.2.2\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #11(Buscaminas)"
+CMAKE_SOURCE_DIR = "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #11(Buscaminas)"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #11(Buscaminas)\cmake-build-debug"
+CMAKE_BINARY_DIR = "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #11(Buscaminas)\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/untitled.dir/depend.make
@@ -58,29 +58,29 @@ include CMakeFiles/untitled.dir/flags.make
 
 CMakeFiles/untitled.dir/main.c.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/main.c.obj: ../main.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\diego\Desktop\Portafolios #1\Ejercicio #11(Buscaminas)\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/untitled.dir/main.c.obj"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\untitled.dir\main.c.obj   -c "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #11(Buscaminas)\main.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\diego\Desktop\Portafolio-1\Ejercicio #11(Buscaminas)\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/untitled.dir/main.c.obj"
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\untitled.dir\main.c.obj   -c "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #11(Buscaminas)\main.c"
 
 CMakeFiles/untitled.dir/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/untitled.dir/main.c.i"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #11(Buscaminas)\main.c" > CMakeFiles\untitled.dir\main.c.i
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #11(Buscaminas)\main.c" > CMakeFiles\untitled.dir\main.c.i
 
 CMakeFiles/untitled.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/untitled.dir/main.c.s"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #11(Buscaminas)\main.c" -o CMakeFiles\untitled.dir\main.c.s
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #11(Buscaminas)\main.c" -o CMakeFiles\untitled.dir\main.c.s
 
 CMakeFiles/untitled.dir/Buscaminas.c.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/Buscaminas.c.obj: ../Buscaminas.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\diego\Desktop\Portafolios #1\Ejercicio #11(Buscaminas)\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/untitled.dir/Buscaminas.c.obj"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\untitled.dir\Buscaminas.c.obj   -c "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #11(Buscaminas)\Buscaminas.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\diego\Desktop\Portafolio-1\Ejercicio #11(Buscaminas)\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/untitled.dir/Buscaminas.c.obj"
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\untitled.dir\Buscaminas.c.obj   -c "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #11(Buscaminas)\Buscaminas.c"
 
 CMakeFiles/untitled.dir/Buscaminas.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/untitled.dir/Buscaminas.c.i"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #11(Buscaminas)\Buscaminas.c" > CMakeFiles\untitled.dir\Buscaminas.c.i
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #11(Buscaminas)\Buscaminas.c" > CMakeFiles\untitled.dir\Buscaminas.c.i
 
 CMakeFiles/untitled.dir/Buscaminas.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/untitled.dir/Buscaminas.c.s"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #11(Buscaminas)\Buscaminas.c" -o CMakeFiles\untitled.dir\Buscaminas.c.s
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #11(Buscaminas)\Buscaminas.c" -o CMakeFiles\untitled.dir\Buscaminas.c.s
 
 # Object files for target untitled
 untitled_OBJECTS = \
@@ -96,7 +96,7 @@ untitled.exe: CMakeFiles/untitled.dir/build.make
 untitled.exe: CMakeFiles/untitled.dir/linklibs.rsp
 untitled.exe: CMakeFiles/untitled.dir/objects1.rsp
 untitled.exe: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\diego\Desktop\Portafolios #1\Ejercicio #11(Buscaminas)\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable untitled.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\diego\Desktop\Portafolio-1\Ejercicio #11(Buscaminas)\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable untitled.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\untitled.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -109,6 +109,6 @@ CMakeFiles/untitled.dir/clean:
 .PHONY : CMakeFiles/untitled.dir/clean
 
 CMakeFiles/untitled.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #11(Buscaminas)" "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #11(Buscaminas)" "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #11(Buscaminas)\cmake-build-debug" "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #11(Buscaminas)\cmake-build-debug" "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #11(Buscaminas)\cmake-build-debug\CMakeFiles\untitled.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #11(Buscaminas)" "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #11(Buscaminas)" "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #11(Buscaminas)\cmake-build-debug" "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #11(Buscaminas)\cmake-build-debug" "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #11(Buscaminas)\cmake-build-debug\CMakeFiles\untitled.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/untitled.dir/depend
 

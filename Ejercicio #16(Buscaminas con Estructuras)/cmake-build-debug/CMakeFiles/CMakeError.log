@@ -1,13 +1,13 @@
 Detecting C [-std=c11] compiler features failed to compile with the following output:
-Change Dir: C:/Users/diego/Desktop/Portafolios #1/Ejercicio #16(Buscaminas con Estructuras)/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: C:/Users/diego/Desktop/Portafolio-1/Ejercicio #16(Buscaminas con Estructuras)/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_5d911/fast 
-C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_5d911.dir\build.make CMakeFiles/cmTC_5d911.dir/build
-mingw32-make.exe[1]: Entering directory 'C:/Users/diego/Desktop/Portafolios #1/Ejercicio #16(Buscaminas con Estructuras)/cmake-build-debug/CMakeFiles/CMakeTmp'
-mingw32-make.exe[1]: Leaving directory 'C:/Users/diego/Desktop/Portafolios #1/Ejercicio #16(Buscaminas con Estructuras)/cmake-build-debug/CMakeFiles/CMakeTmp'
-mingw32-make.exe[1]: *** No rule to make target 'C:/Users/diego/Desktop/Portafolios\', needed by 'CMakeFiles/cmTC_5d911.dir/feature_tests.c.obj'.  Stop.
-Makefile:120: recipe for target 'cmTC_5d911/fast' failed
-mingw32-make.exe: *** [cmTC_5d911/fast] Error 2
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_c7514/fast 
+C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_c7514.dir\build.make CMakeFiles/cmTC_c7514.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/diego/Desktop/Portafolio-1/Ejercicio #16(Buscaminas con Estructuras)/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: Leaving directory 'C:/Users/diego/Desktop/Portafolio-1/Ejercicio #16(Buscaminas con Estructuras)/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: *** No rule to make target 'C:/Users/diego/Desktop/Portafolio-1/Ejercicio\', needed by 'CMakeFiles/cmTC_c7514.dir/feature_tests.c.obj'.  Stop.
+Makefile:120: recipe for target 'cmTC_c7514/fast' failed
+mingw32-make.exe: *** [cmTC_c7514/fast] Error 2
 
 
 

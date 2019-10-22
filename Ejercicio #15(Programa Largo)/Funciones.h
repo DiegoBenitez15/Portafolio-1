@@ -8,8 +8,8 @@
 typedef struct evaluaciones
 {
     char nombre_evaluacion[20];
-    int poderacion[15];
-    int nota[15];
+    float poderacion;
+    float nota;
 }evaluaciones;
 
 
@@ -17,7 +17,7 @@ typedef struct materias
 {
     char nombre_materia[20];
     int c_evaluciones;
-    evaluaciones eval[];
+    evaluaciones eval[20];
 }materias;
 
 typedef struct estudiantes
@@ -26,9 +26,16 @@ typedef struct estudiantes
     long int matricula;
     int edad;
     int c_materias;
-    materias mat[];
+    float promedio;
+    materias mat[20];
 }estudiantes;
 
 void introducir(estudiantes est[],int x);
+float promedio1(estudiantes est);
+float prom(estudiantes est[],int x);
+int bmatricula(estudiantes est[],int ii,int is,long int mat);
+int estudiantemayornota(estudiantes est[],int x);
+void notas(estudiantes est[],int x);
+
 
 #endif //EJERCICIO__15_PROGRAMA_LARGO__FUNCIONES_H

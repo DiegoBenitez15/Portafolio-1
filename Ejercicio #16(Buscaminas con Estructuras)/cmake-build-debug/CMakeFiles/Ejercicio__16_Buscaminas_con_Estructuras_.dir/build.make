@@ -42,10 +42,10 @@ RM = "C:\Program Files\JetBrains\CLion 2019.2.2\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #16(Buscaminas con Estructuras)"
+CMAKE_SOURCE_DIR = "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #16(Buscaminas con Estructuras)"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #16(Buscaminas con Estructuras)\cmake-build-debug"
+CMAKE_BINARY_DIR = "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #16(Buscaminas con Estructuras)\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Ejercicio__16_Buscaminas_con_Estructuras_.dir/depend.make
@@ -58,29 +58,29 @@ include CMakeFiles/Ejercicio__16_Buscaminas_con_Estructuras_.dir/flags.make
 
 CMakeFiles/Ejercicio__16_Buscaminas_con_Estructuras_.dir/main.c.obj: CMakeFiles/Ejercicio__16_Buscaminas_con_Estructuras_.dir/flags.make
 CMakeFiles/Ejercicio__16_Buscaminas_con_Estructuras_.dir/main.c.obj: ../main.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\diego\Desktop\Portafolios #1\Ejercicio #16(Buscaminas con Estructuras)\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Ejercicio__16_Buscaminas_con_Estructuras_.dir/main.c.obj"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Ejercicio__16_Buscaminas_con_Estructuras_.dir\main.c.obj   -c "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #16(Buscaminas con Estructuras)\main.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\diego\Desktop\Portafolio-1\Ejercicio #16(Buscaminas con Estructuras)\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Ejercicio__16_Buscaminas_con_Estructuras_.dir/main.c.obj"
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Ejercicio__16_Buscaminas_con_Estructuras_.dir\main.c.obj   -c "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #16(Buscaminas con Estructuras)\main.c"
 
 CMakeFiles/Ejercicio__16_Buscaminas_con_Estructuras_.dir/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Ejercicio__16_Buscaminas_con_Estructuras_.dir/main.c.i"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #16(Buscaminas con Estructuras)\main.c" > CMakeFiles\Ejercicio__16_Buscaminas_con_Estructuras_.dir\main.c.i
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #16(Buscaminas con Estructuras)\main.c" > CMakeFiles\Ejercicio__16_Buscaminas_con_Estructuras_.dir\main.c.i
 
 CMakeFiles/Ejercicio__16_Buscaminas_con_Estructuras_.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Ejercicio__16_Buscaminas_con_Estructuras_.dir/main.c.s"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #16(Buscaminas con Estructuras)\main.c" -o CMakeFiles\Ejercicio__16_Buscaminas_con_Estructuras_.dir\main.c.s
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #16(Buscaminas con Estructuras)\main.c" -o CMakeFiles\Ejercicio__16_Buscaminas_con_Estructuras_.dir\main.c.s
 
 CMakeFiles/Ejercicio__16_Buscaminas_con_Estructuras_.dir/BuscaminasEstructuras.c.obj: CMakeFiles/Ejercicio__16_Buscaminas_con_Estructuras_.dir/flags.make
 CMakeFiles/Ejercicio__16_Buscaminas_con_Estructuras_.dir/BuscaminasEstructuras.c.obj: ../BuscaminasEstructuras.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\diego\Desktop\Portafolios #1\Ejercicio #16(Buscaminas con Estructuras)\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/Ejercicio__16_Buscaminas_con_Estructuras_.dir/BuscaminasEstructuras.c.obj"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Ejercicio__16_Buscaminas_con_Estructuras_.dir\BuscaminasEstructuras.c.obj   -c "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #16(Buscaminas con Estructuras)\BuscaminasEstructuras.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\diego\Desktop\Portafolio-1\Ejercicio #16(Buscaminas con Estructuras)\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/Ejercicio__16_Buscaminas_con_Estructuras_.dir/BuscaminasEstructuras.c.obj"
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Ejercicio__16_Buscaminas_con_Estructuras_.dir\BuscaminasEstructuras.c.obj   -c "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #16(Buscaminas con Estructuras)\BuscaminasEstructuras.c"
 
 CMakeFiles/Ejercicio__16_Buscaminas_con_Estructuras_.dir/BuscaminasEstructuras.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Ejercicio__16_Buscaminas_con_Estructuras_.dir/BuscaminasEstructuras.c.i"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #16(Buscaminas con Estructuras)\BuscaminasEstructuras.c" > CMakeFiles\Ejercicio__16_Buscaminas_con_Estructuras_.dir\BuscaminasEstructuras.c.i
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #16(Buscaminas con Estructuras)\BuscaminasEstructuras.c" > CMakeFiles\Ejercicio__16_Buscaminas_con_Estructuras_.dir\BuscaminasEstructuras.c.i
 
 CMakeFiles/Ejercicio__16_Buscaminas_con_Estructuras_.dir/BuscaminasEstructuras.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Ejercicio__16_Buscaminas_con_Estructuras_.dir/BuscaminasEstructuras.c.s"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #16(Buscaminas con Estructuras)\BuscaminasEstructuras.c" -o CMakeFiles\Ejercicio__16_Buscaminas_con_Estructuras_.dir\BuscaminasEstructuras.c.s
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #16(Buscaminas con Estructuras)\BuscaminasEstructuras.c" -o CMakeFiles\Ejercicio__16_Buscaminas_con_Estructuras_.dir\BuscaminasEstructuras.c.s
 
 # Object files for target Ejercicio__16_Buscaminas_con_Estructuras_
 Ejercicio__16_Buscaminas_con_Estructuras__OBJECTS = \
@@ -96,7 +96,7 @@ Ejercicio__16_Buscaminas_con_Estructuras_.exe: CMakeFiles/Ejercicio__16_Buscamin
 Ejercicio__16_Buscaminas_con_Estructuras_.exe: CMakeFiles/Ejercicio__16_Buscaminas_con_Estructuras_.dir/linklibs.rsp
 Ejercicio__16_Buscaminas_con_Estructuras_.exe: CMakeFiles/Ejercicio__16_Buscaminas_con_Estructuras_.dir/objects1.rsp
 Ejercicio__16_Buscaminas_con_Estructuras_.exe: CMakeFiles/Ejercicio__16_Buscaminas_con_Estructuras_.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\diego\Desktop\Portafolios #1\Ejercicio #16(Buscaminas con Estructuras)\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable Ejercicio__16_Buscaminas_con_Estructuras_.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\diego\Desktop\Portafolio-1\Ejercicio #16(Buscaminas con Estructuras)\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable Ejercicio__16_Buscaminas_con_Estructuras_.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Ejercicio__16_Buscaminas_con_Estructuras_.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -109,6 +109,6 @@ CMakeFiles/Ejercicio__16_Buscaminas_con_Estructuras_.dir/clean:
 .PHONY : CMakeFiles/Ejercicio__16_Buscaminas_con_Estructuras_.dir/clean
 
 CMakeFiles/Ejercicio__16_Buscaminas_con_Estructuras_.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #16(Buscaminas con Estructuras)" "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #16(Buscaminas con Estructuras)" "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #16(Buscaminas con Estructuras)\cmake-build-debug" "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #16(Buscaminas con Estructuras)\cmake-build-debug" "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #16(Buscaminas con Estructuras)\cmake-build-debug\CMakeFiles\Ejercicio__16_Buscaminas_con_Estructuras_.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #16(Buscaminas con Estructuras)" "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #16(Buscaminas con Estructuras)" "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #16(Buscaminas con Estructuras)\cmake-build-debug" "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #16(Buscaminas con Estructuras)\cmake-build-debug" "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #16(Buscaminas con Estructuras)\cmake-build-debug\CMakeFiles\Ejercicio__16_Buscaminas_con_Estructuras_.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/Ejercicio__16_Buscaminas_con_Estructuras_.dir/depend
 

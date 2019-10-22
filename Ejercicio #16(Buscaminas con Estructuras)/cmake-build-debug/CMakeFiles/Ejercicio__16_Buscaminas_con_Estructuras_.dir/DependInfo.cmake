@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "C:/Users/diego/Desktop/Portafolios #1/Ejercicio #16(Buscaminas con Estructuras)/BuscaminasEstructuras.c" "C:/Users/diego/Desktop/Portafolios #1/Ejercicio #16(Buscaminas con Estructuras)/cmake-build-debug/CMakeFiles/Ejercicio__16_Buscaminas_con_Estructuras_.dir/BuscaminasEstructuras.c.obj"
-  "C:/Users/diego/Desktop/Portafolios #1/Ejercicio #16(Buscaminas con Estructuras)/main.c" "C:/Users/diego/Desktop/Portafolios #1/Ejercicio #16(Buscaminas con Estructuras)/cmake-build-debug/CMakeFiles/Ejercicio__16_Buscaminas_con_Estructuras_.dir/main.c.obj"
+  "C:/Users/diego/Desktop/Portafolio-1/Ejercicio #16(Buscaminas con Estructuras)/BuscaminasEstructuras.c" "C:/Users/diego/Desktop/Portafolio-1/Ejercicio #16(Buscaminas con Estructuras)/cmake-build-debug/CMakeFiles/Ejercicio__16_Buscaminas_con_Estructuras_.dir/BuscaminasEstructuras.c.obj"
+  "C:/Users/diego/Desktop/Portafolio-1/Ejercicio #16(Buscaminas con Estructuras)/main.c" "C:/Users/diego/Desktop/Portafolio-1/Ejercicio #16(Buscaminas con Estructuras)/cmake-build-debug/CMakeFiles/Ejercicio__16_Buscaminas_con_Estructuras_.dir/main.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

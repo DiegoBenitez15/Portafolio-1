@@ -47,10 +47,10 @@ RM = "C:\Program Files\JetBrains\CLion 2019.2.2\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #15(Programa Largo)"
+CMAKE_SOURCE_DIR = "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #15(Programa Largo)"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #15(Programa Largo)\cmake-build-debug"
+CMAKE_BINARY_DIR = "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #15(Programa Largo)\cmake-build-debug"
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -79,9 +79,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #15(Programa Largo)\cmake-build-debug\CMakeFiles" "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #15(Programa Largo)\cmake-build-debug\CMakeFiles\progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #15(Programa Largo)\cmake-build-debug\CMakeFiles" "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #15(Programa Largo)\cmake-build-debug\CMakeFiles\progress.marks"
 	$(MAKE) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #15(Programa Largo)\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #15(Programa Largo)\cmake-build-debug\CMakeFiles" 0
 .PHONY : all
 
 # The main clean target
@@ -122,6 +122,19 @@ Ejercicio__15_Programa_Largo_/fast:
 	$(MAKE) -f CMakeFiles\Ejercicio__15_Programa_Largo_.dir\build.make CMakeFiles/Ejercicio__15_Programa_Largo_.dir/build
 .PHONY : Ejercicio__15_Programa_Largo_/fast
 
+#=============================================================================
+# Target rules for targets named Ejercicio__15_Programa_Largo_minunit
+
+# Build rule for target.
+Ejercicio__15_Programa_Largo_minunit: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 Ejercicio__15_Programa_Largo_minunit
+.PHONY : Ejercicio__15_Programa_Largo_minunit
+
+# fast build rule for target.
+Ejercicio__15_Programa_Largo_minunit/fast:
+	$(MAKE) -f CMakeFiles\Ejercicio__15_Programa_Largo_minunit.dir\build.make CMakeFiles/Ejercicio__15_Programa_Largo_minunit.dir/build
+.PHONY : Ejercicio__15_Programa_Largo_minunit/fast
+
 Funciones.obj: Funciones.c.obj
 
 .PHONY : Funciones.obj
@@ -129,6 +142,7 @@ Funciones.obj: Funciones.c.obj
 # target to build an object file
 Funciones.c.obj:
 	$(MAKE) -f CMakeFiles\Ejercicio__15_Programa_Largo_.dir\build.make CMakeFiles/Ejercicio__15_Programa_Largo_.dir/Funciones.c.obj
+	$(MAKE) -f CMakeFiles\Ejercicio__15_Programa_Largo_minunit.dir\build.make CMakeFiles/Ejercicio__15_Programa_Largo_minunit.dir/Funciones.c.obj
 .PHONY : Funciones.c.obj
 
 Funciones.i: Funciones.c.i
@@ -138,6 +152,7 @@ Funciones.i: Funciones.c.i
 # target to preprocess a source file
 Funciones.c.i:
 	$(MAKE) -f CMakeFiles\Ejercicio__15_Programa_Largo_.dir\build.make CMakeFiles/Ejercicio__15_Programa_Largo_.dir/Funciones.c.i
+	$(MAKE) -f CMakeFiles\Ejercicio__15_Programa_Largo_minunit.dir\build.make CMakeFiles/Ejercicio__15_Programa_Largo_minunit.dir/Funciones.c.i
 .PHONY : Funciones.c.i
 
 Funciones.s: Funciones.c.s
@@ -147,6 +162,7 @@ Funciones.s: Funciones.c.s
 # target to generate assembly for a file
 Funciones.c.s:
 	$(MAKE) -f CMakeFiles\Ejercicio__15_Programa_Largo_.dir\build.make CMakeFiles/Ejercicio__15_Programa_Largo_.dir/Funciones.c.s
+	$(MAKE) -f CMakeFiles\Ejercicio__15_Programa_Largo_minunit.dir\build.make CMakeFiles/Ejercicio__15_Programa_Largo_minunit.dir/Funciones.c.s
 .PHONY : Funciones.c.s
 
 main.obj: main.c.obj
@@ -176,6 +192,33 @@ main.c.s:
 	$(MAKE) -f CMakeFiles\Ejercicio__15_Programa_Largo_.dir\build.make CMakeFiles/Ejercicio__15_Programa_Largo_.dir/main.c.s
 .PHONY : main.c.s
 
+minunit.obj: minunit.c.obj
+
+.PHONY : minunit.obj
+
+# target to build an object file
+minunit.c.obj:
+	$(MAKE) -f CMakeFiles\Ejercicio__15_Programa_Largo_minunit.dir\build.make CMakeFiles/Ejercicio__15_Programa_Largo_minunit.dir/minunit.c.obj
+.PHONY : minunit.c.obj
+
+minunit.i: minunit.c.i
+
+.PHONY : minunit.i
+
+# target to preprocess a source file
+minunit.c.i:
+	$(MAKE) -f CMakeFiles\Ejercicio__15_Programa_Largo_minunit.dir\build.make CMakeFiles/Ejercicio__15_Programa_Largo_minunit.dir/minunit.c.i
+.PHONY : minunit.c.i
+
+minunit.s: minunit.c.s
+
+.PHONY : minunit.s
+
+# target to generate assembly for a file
+minunit.c.s:
+	$(MAKE) -f CMakeFiles\Ejercicio__15_Programa_Largo_minunit.dir\build.make CMakeFiles/Ejercicio__15_Programa_Largo_minunit.dir/minunit.c.s
+.PHONY : minunit.c.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -183,6 +226,7 @@ help:
 	@echo ... clean
 	@echo ... depend
 	@echo ... Ejercicio__15_Programa_Largo_
+	@echo ... Ejercicio__15_Programa_Largo_minunit
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Funciones.obj
@@ -191,6 +235,9 @@ help:
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... minunit.obj
+	@echo ... minunit.i
+	@echo ... minunit.s
 .PHONY : help
 
 

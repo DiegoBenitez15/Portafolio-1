@@ -42,10 +42,10 @@ RM = "C:\Program Files\JetBrains\CLion 2019.2.2\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #3 (Primos)\untitled2"
+CMAKE_SOURCE_DIR = "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #3 (Primos)\untitled2"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #3 (Primos)\untitled2\cmake-build-debug"
+CMAKE_BINARY_DIR = "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #3 (Primos)\untitled2\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/untitled2.dir/depend.make
@@ -58,29 +58,29 @@ include CMakeFiles/untitled2.dir/flags.make
 
 CMakeFiles/untitled2.dir/main.c.obj: CMakeFiles/untitled2.dir/flags.make
 CMakeFiles/untitled2.dir/main.c.obj: ../main.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\diego\Desktop\Portafolios #1\Ejercicio #3 (Primos)\untitled2\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/untitled2.dir/main.c.obj"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\untitled2.dir\main.c.obj   -c "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #3 (Primos)\untitled2\main.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\diego\Desktop\Portafolio-1\Ejercicio #3 (Primos)\untitled2\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/untitled2.dir/main.c.obj"
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\untitled2.dir\main.c.obj   -c "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #3 (Primos)\untitled2\main.c"
 
 CMakeFiles/untitled2.dir/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/untitled2.dir/main.c.i"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #3 (Primos)\untitled2\main.c" > CMakeFiles\untitled2.dir\main.c.i
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #3 (Primos)\untitled2\main.c" > CMakeFiles\untitled2.dir\main.c.i
 
 CMakeFiles/untitled2.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/untitled2.dir/main.c.s"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #3 (Primos)\untitled2\main.c" -o CMakeFiles\untitled2.dir\main.c.s
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #3 (Primos)\untitled2\main.c" -o CMakeFiles\untitled2.dir\main.c.s
 
 CMakeFiles/untitled2.dir/primos.c.obj: CMakeFiles/untitled2.dir/flags.make
 CMakeFiles/untitled2.dir/primos.c.obj: ../primos.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\diego\Desktop\Portafolios #1\Ejercicio #3 (Primos)\untitled2\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/untitled2.dir/primos.c.obj"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\untitled2.dir\primos.c.obj   -c "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #3 (Primos)\untitled2\primos.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\diego\Desktop\Portafolio-1\Ejercicio #3 (Primos)\untitled2\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/untitled2.dir/primos.c.obj"
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\untitled2.dir\primos.c.obj   -c "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #3 (Primos)\untitled2\primos.c"
 
 CMakeFiles/untitled2.dir/primos.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/untitled2.dir/primos.c.i"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #3 (Primos)\untitled2\primos.c" > CMakeFiles\untitled2.dir\primos.c.i
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #3 (Primos)\untitled2\primos.c" > CMakeFiles\untitled2.dir\primos.c.i
 
 CMakeFiles/untitled2.dir/primos.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/untitled2.dir/primos.c.s"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #3 (Primos)\untitled2\primos.c" -o CMakeFiles\untitled2.dir\primos.c.s
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #3 (Primos)\untitled2\primos.c" -o CMakeFiles\untitled2.dir\primos.c.s
 
 # Object files for target untitled2
 untitled2_OBJECTS = \
@@ -96,7 +96,7 @@ untitled2.exe: CMakeFiles/untitled2.dir/build.make
 untitled2.exe: CMakeFiles/untitled2.dir/linklibs.rsp
 untitled2.exe: CMakeFiles/untitled2.dir/objects1.rsp
 untitled2.exe: CMakeFiles/untitled2.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\diego\Desktop\Portafolios #1\Ejercicio #3 (Primos)\untitled2\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable untitled2.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\diego\Desktop\Portafolio-1\Ejercicio #3 (Primos)\untitled2\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable untitled2.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\untitled2.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -109,6 +109,6 @@ CMakeFiles/untitled2.dir/clean:
 .PHONY : CMakeFiles/untitled2.dir/clean
 
 CMakeFiles/untitled2.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #3 (Primos)\untitled2" "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #3 (Primos)\untitled2" "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #3 (Primos)\untitled2\cmake-build-debug" "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #3 (Primos)\untitled2\cmake-build-debug" "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #3 (Primos)\untitled2\cmake-build-debug\CMakeFiles\untitled2.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #3 (Primos)\untitled2" "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #3 (Primos)\untitled2" "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #3 (Primos)\untitled2\cmake-build-debug" "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #3 (Primos)\untitled2\cmake-build-debug" "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #3 (Primos)\untitled2\cmake-build-debug\CMakeFiles\untitled2.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/untitled2.dir/depend
 

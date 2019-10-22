@@ -6,13 +6,47 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/diego/Desktop/Portafolios #1/Ejercicio #16(Buscaminas con Estructuras)/BuscaminasEstructuras.c
+C:/Users/diego/Desktop/Portafolio-1/Ejercicio #16(Buscaminas con Estructuras)/BuscaminasEstructuras.c
 stdlib.h
 -
 time.h
 -
 BuscaminasEstructuras.h
-C:/Users/diego/Desktop/Portafolios #1/Ejercicio #16(Buscaminas con Estructuras)/BuscaminasEstructuras.h
+C:/Users/diego/Desktop/Portafolio-1/Ejercicio #16(Buscaminas con Estructuras)/BuscaminasEstructuras.h
 
-C:/Users/diego/Desktop/Portafolios #1/Ejercicio #16(Buscaminas con Estructuras)/BuscaminasEstructuras.h
+C:/Users/diego/Desktop/Portafolio-1/Ejercicio #16(Buscaminas con Estructuras)/BuscaminasEstructuras.h
+
+C:/Users/diego/Desktop/Portafolio-1/Ejercicio #16(Buscaminas con Estructuras)/main.c
+minunit.h
+C:/Users/diego/Desktop/Portafolio-1/Ejercicio #16(Buscaminas con Estructuras)/minunit.h
+BuscaminasEstructuras.h
+C:/Users/diego/Desktop/Portafolio-1/Ejercicio #16(Buscaminas con Estructuras)/BuscaminasEstructuras.h
+stdlib.h
+-
+time.h
+-
+
+C:/Users/diego/Desktop/Portafolio-1/Ejercicio #16(Buscaminas con Estructuras)/minunit.h
+windows.h
+-
+unistd.h
+-
+time.h
+-
+sys/time.h
+-
+sys/resource.h
+-
+sys/times.h
+-
+string.h
+-
+mach/mach.h
+-
+mach/mach_time.h
+-
+stdio.h
+-
+math.h
+-
 

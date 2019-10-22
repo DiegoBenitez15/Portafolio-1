@@ -42,5 +42,9 @@ int numeroigual(int a,int b)
         {
             return  pfa + 1;
         }
+        else
+        {
+            return -1;
+        }
     }
 }

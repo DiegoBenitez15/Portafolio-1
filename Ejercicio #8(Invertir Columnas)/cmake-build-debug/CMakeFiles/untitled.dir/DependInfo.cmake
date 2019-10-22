@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "C:/Users/diego/Desktop/Portafolios #1/Ejercicio #8(Invertir Columnas)/Funcion.c" "C:/Users/diego/Desktop/Portafolios #1/Ejercicio #8(Invertir Columnas)/cmake-build-debug/CMakeFiles/untitled.dir/Funcion.c.obj"
-  "C:/Users/diego/Desktop/Portafolios #1/Ejercicio #8(Invertir Columnas)/main.c" "C:/Users/diego/Desktop/Portafolios #1/Ejercicio #8(Invertir Columnas)/cmake-build-debug/CMakeFiles/untitled.dir/main.c.obj"
+  "C:/Users/diego/Desktop/Portafolio-1/Ejercicio #8(Invertir Columnas)/Funcion.c" "C:/Users/diego/Desktop/Portafolio-1/Ejercicio #8(Invertir Columnas)/cmake-build-debug/CMakeFiles/untitled.dir/Funcion.c.obj"
+  "C:/Users/diego/Desktop/Portafolio-1/Ejercicio #8(Invertir Columnas)/main.c" "C:/Users/diego/Desktop/Portafolio-1/Ejercicio #8(Invertir Columnas)/cmake-build-debug/CMakeFiles/untitled.dir/main.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

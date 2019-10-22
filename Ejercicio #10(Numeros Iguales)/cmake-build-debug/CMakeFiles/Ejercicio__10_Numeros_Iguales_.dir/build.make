@@ -42,10 +42,10 @@ RM = "C:\Program Files\JetBrains\CLion 2019.2.2\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #10(Numeros Iguales)"
+CMAKE_SOURCE_DIR = "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #10(Numeros Iguales)"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #10(Numeros Iguales)\cmake-build-debug"
+CMAKE_BINARY_DIR = "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #10(Numeros Iguales)\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Ejercicio__10_Numeros_Iguales_.dir/depend.make
@@ -58,29 +58,29 @@ include CMakeFiles/Ejercicio__10_Numeros_Iguales_.dir/flags.make
 
 CMakeFiles/Ejercicio__10_Numeros_Iguales_.dir/main.c.obj: CMakeFiles/Ejercicio__10_Numeros_Iguales_.dir/flags.make
 CMakeFiles/Ejercicio__10_Numeros_Iguales_.dir/main.c.obj: ../main.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\diego\Desktop\Portafolios #1\Ejercicio #10(Numeros Iguales)\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Ejercicio__10_Numeros_Iguales_.dir/main.c.obj"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Ejercicio__10_Numeros_Iguales_.dir\main.c.obj   -c "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #10(Numeros Iguales)\main.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\diego\Desktop\Portafolio-1\Ejercicio #10(Numeros Iguales)\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Ejercicio__10_Numeros_Iguales_.dir/main.c.obj"
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Ejercicio__10_Numeros_Iguales_.dir\main.c.obj   -c "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #10(Numeros Iguales)\main.c"
 
 CMakeFiles/Ejercicio__10_Numeros_Iguales_.dir/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Ejercicio__10_Numeros_Iguales_.dir/main.c.i"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #10(Numeros Iguales)\main.c" > CMakeFiles\Ejercicio__10_Numeros_Iguales_.dir\main.c.i
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #10(Numeros Iguales)\main.c" > CMakeFiles\Ejercicio__10_Numeros_Iguales_.dir\main.c.i
 
 CMakeFiles/Ejercicio__10_Numeros_Iguales_.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Ejercicio__10_Numeros_Iguales_.dir/main.c.s"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #10(Numeros Iguales)\main.c" -o CMakeFiles\Ejercicio__10_Numeros_Iguales_.dir\main.c.s
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #10(Numeros Iguales)\main.c" -o CMakeFiles\Ejercicio__10_Numeros_Iguales_.dir\main.c.s
 
 CMakeFiles/Ejercicio__10_Numeros_Iguales_.dir/Funcion.c.obj: CMakeFiles/Ejercicio__10_Numeros_Iguales_.dir/flags.make
 CMakeFiles/Ejercicio__10_Numeros_Iguales_.dir/Funcion.c.obj: ../Funcion.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\diego\Desktop\Portafolios #1\Ejercicio #10(Numeros Iguales)\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/Ejercicio__10_Numeros_Iguales_.dir/Funcion.c.obj"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Ejercicio__10_Numeros_Iguales_.dir\Funcion.c.obj   -c "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #10(Numeros Iguales)\Funcion.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\diego\Desktop\Portafolio-1\Ejercicio #10(Numeros Iguales)\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/Ejercicio__10_Numeros_Iguales_.dir/Funcion.c.obj"
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Ejercicio__10_Numeros_Iguales_.dir\Funcion.c.obj   -c "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #10(Numeros Iguales)\Funcion.c"
 
 CMakeFiles/Ejercicio__10_Numeros_Iguales_.dir/Funcion.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Ejercicio__10_Numeros_Iguales_.dir/Funcion.c.i"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #10(Numeros Iguales)\Funcion.c" > CMakeFiles\Ejercicio__10_Numeros_Iguales_.dir\Funcion.c.i
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #10(Numeros Iguales)\Funcion.c" > CMakeFiles\Ejercicio__10_Numeros_Iguales_.dir\Funcion.c.i
 
 CMakeFiles/Ejercicio__10_Numeros_Iguales_.dir/Funcion.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Ejercicio__10_Numeros_Iguales_.dir/Funcion.c.s"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #10(Numeros Iguales)\Funcion.c" -o CMakeFiles\Ejercicio__10_Numeros_Iguales_.dir\Funcion.c.s
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #10(Numeros Iguales)\Funcion.c" -o CMakeFiles\Ejercicio__10_Numeros_Iguales_.dir\Funcion.c.s
 
 # Object files for target Ejercicio__10_Numeros_Iguales_
 Ejercicio__10_Numeros_Iguales__OBJECTS = \
@@ -96,7 +96,7 @@ Ejercicio__10_Numeros_Iguales_.exe: CMakeFiles/Ejercicio__10_Numeros_Iguales_.di
 Ejercicio__10_Numeros_Iguales_.exe: CMakeFiles/Ejercicio__10_Numeros_Iguales_.dir/linklibs.rsp
 Ejercicio__10_Numeros_Iguales_.exe: CMakeFiles/Ejercicio__10_Numeros_Iguales_.dir/objects1.rsp
 Ejercicio__10_Numeros_Iguales_.exe: CMakeFiles/Ejercicio__10_Numeros_Iguales_.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\diego\Desktop\Portafolios #1\Ejercicio #10(Numeros Iguales)\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable Ejercicio__10_Numeros_Iguales_.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\diego\Desktop\Portafolio-1\Ejercicio #10(Numeros Iguales)\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable Ejercicio__10_Numeros_Iguales_.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Ejercicio__10_Numeros_Iguales_.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -109,6 +109,6 @@ CMakeFiles/Ejercicio__10_Numeros_Iguales_.dir/clean:
 .PHONY : CMakeFiles/Ejercicio__10_Numeros_Iguales_.dir/clean
 
 CMakeFiles/Ejercicio__10_Numeros_Iguales_.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #10(Numeros Iguales)" "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #10(Numeros Iguales)" "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #10(Numeros Iguales)\cmake-build-debug" "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #10(Numeros Iguales)\cmake-build-debug" "C:\Users\diego\Desktop\Portafolios #1\Ejercicio #10(Numeros Iguales)\cmake-build-debug\CMakeFiles\Ejercicio__10_Numeros_Iguales_.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #10(Numeros Iguales)" "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #10(Numeros Iguales)" "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #10(Numeros Iguales)\cmake-build-debug" "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #10(Numeros Iguales)\cmake-build-debug" "C:\Users\diego\Desktop\Portafolio-1\Ejercicio #10(Numeros Iguales)\cmake-build-debug\CMakeFiles\Ejercicio__10_Numeros_Iguales_.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/Ejercicio__10_Numeros_Iguales_.dir/depend
 

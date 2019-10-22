@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "C:/Users/diego/Desktop/Portafolios #1/Ejercicio #10(Numeros Iguales)/Funcion.c" "C:/Users/diego/Desktop/Portafolios #1/Ejercicio #10(Numeros Iguales)/cmake-build-debug/CMakeFiles/Ejercicio__10_Numeros_Iguales_.dir/Funcion.c.obj"
-  "C:/Users/diego/Desktop/Portafolios #1/Ejercicio #10(Numeros Iguales)/main.c" "C:/Users/diego/Desktop/Portafolios #1/Ejercicio #10(Numeros Iguales)/cmake-build-debug/CMakeFiles/Ejercicio__10_Numeros_Iguales_.dir/main.c.obj"
+  "C:/Users/diego/Desktop/Portafolio-1/Ejercicio #10(Numeros Iguales)/Funcion.c" "C:/Users/diego/Desktop/Portafolio-1/Ejercicio #10(Numeros Iguales)/cmake-build-debug/CMakeFiles/Ejercicio__10_Numeros_Iguales_.dir/Funcion.c.obj"
+  "C:/Users/diego/Desktop/Portafolio-1/Ejercicio #10(Numeros Iguales)/main.c" "C:/Users/diego/Desktop/Portafolio-1/Ejercicio #10(Numeros Iguales)/cmake-build-debug/CMakeFiles/Ejercicio__10_Numeros_Iguales_.dir/main.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
